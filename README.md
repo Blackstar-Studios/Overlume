@@ -1,7 +1,4 @@
 # **Overlume**
-## _By Blackstar. Studios_
-
----
 
 ### Table of Contents:
 
