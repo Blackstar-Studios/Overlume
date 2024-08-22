@@ -72,7 +72,7 @@ Development Team:
 
 Contributors:
 
-- N/A
+- EarthGod_MilkGoat (u/EarthGod_MilkGoat)
 
 > This project is our first 2D game and will initially heavlily rely on a game developed by @AbdelmoumeneUnity! Check out his channel and template playlist with the links below:
 >
